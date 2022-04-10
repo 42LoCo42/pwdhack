@@ -14,3 +14,6 @@ rlwrap tracks the PWD of its child process,
 so I need to programmatically change drawterm's PWD.
 
 There could be other uses for this tool.
+
+## Demo
+https://user-images.githubusercontent.com/39183040/162638173-6a67d8ca-39d2-436c-b8d6-7febbd35e623.mp4
